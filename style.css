@@ -1,6 +1,16 @@
-h1 {    
+.Welcome {    
     color: white;
     text-align: center;
     margin:35px 700px;
     background: green;
   } 
+#Moab{
+height: auto;
+width: 300px;
+  }
+.aboutMe{
+  text-align: center;
+}
+.campingVid{
+  height:500px;
+}
