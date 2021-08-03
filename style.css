@@ -11,6 +11,12 @@ width: 300px;
 .aboutMe{
   text-align: center;
 }
-.campingVid{
+#campingVid{
+  padding: 20px;
   height:500px;
+}
+#hikingVid{
+  height: 500px;
+  width: auto;
+  padding: 20px;
 }
