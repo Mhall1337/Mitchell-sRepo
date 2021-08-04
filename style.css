@@ -1,3 +1,6 @@
+body{
+  background-color: rgb(220, 238, 217);
+}
 .Welcome {    
     color: white;
     text-align: center;
@@ -19,4 +22,17 @@ width: 300px;
   height: 500px;
   width: auto;
   padding: 20px;
+}
+#sandVid{
+  height:500px;
+  width: auto;
+  padding: 20px;
+}
+div#vidsTable{
+   margin-left: auto;
+   margin-right: auto;
+}
+#tetons{
+  height: 500px;
+  width: auto;
 }
